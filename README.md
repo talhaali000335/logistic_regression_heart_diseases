@@ -380,29 +380,10 @@ We welcome contributions to improve this heart disease prediction project!
 - **🌐 Web Interface**: Create user-friendly web application
 - **📱 Mobile App**: Develop mobile prediction interface
 
-## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-### 📋 License Summary
 
-- ✅ **Commercial Use**: Allowed
-- ✅ **Modification**: Allowed
-- ✅ **Distribution**: Allowed
-- ✅ **Private Use**: Allowed
-- ❌ **Liability**: Limited
-- ❌ **Warranty**: None
 
-## 👨‍💻 Author
-
-**Nhan Pham Thanh**
-
-- 🐙 **GitHub**: [@NhanPhamThanh-IT](https://github.com/NhanPhamThanh-IT)
-- 📧 **Email**: [Contact](mailto:your.email@example.com)
-- 💼 **LinkedIn**: [Connect](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio**: [Visit](https://your-portfolio.com)
-
----
 
 <div align="center">
 
